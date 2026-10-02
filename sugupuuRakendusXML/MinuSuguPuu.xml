@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene synd="1960">
+	<nimi>Svetlana</nimi>
+	<lapsed>
+		<inimene synd="1985">
+			<nimi>Jekaterina</nimi>
+			
+			<lapsed>
+				<inimene synd="2007">
+					<nimi>Igor</nimi>
+				</inimene>
+
+				
+
+			</lapsed>
+		</inimene>
+		
+		
+
+	</lapsed>
+</inimene>
