@@ -50,6 +50,7 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Elizaveta Sugupuu</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Oma sugupuu</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact2">XML skeem</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/reis">XML reis</a></li>
                     </ul>
                 </div>
             </div>

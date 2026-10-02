@@ -121,6 +121,9 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="MinuSuguPuu.xml" />
+    <Content Include="reis.aspx" />
+    <Content Include="reis.xml" />
+    <Content Include="ReisiParing.xslt" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -220,6 +223,13 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reis.aspx.cs">
+      <DependentUpon>reis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="reis.aspx.designer.cs">
+      <DependentUpon>reis.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

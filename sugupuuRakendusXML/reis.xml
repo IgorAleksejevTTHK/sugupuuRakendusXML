@@ -1,0 +1,153 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<reis aasta='2026'>
+	<suund id="Venezuela">
+		<nimetus>Lane</nimetus>
+		<riik>France</riik>
+		<Pikkus>12</Pikkus>
+	</suund>
+	<suund id="Bosnia and Herzegovina">
+		<nimetus>Terrace</nimetus>
+		<riik>Ukraine</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Lane</nimetus>
+		<riik>Indonesia</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Hill</nimetus>
+		<riik>Portugal</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Hill</nimetus>
+		<riik>China</riik>
+		<Pikkus>4</Pikkus>
+	</suund>
+	<suund id="Slovenia">
+		<nimetus>Plaza</nimetus>
+		<riik>Bosnia and Herzegovina</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Azerbaijan">
+		<nimetus>Point</nimetus>
+		<riik>United States</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Niger">
+		<nimetus>Way</nimetus>
+		<riik>Panama</riik>
+		<Pikkus>9.5</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Court</nimetus>
+		<riik>China</riik>
+		<Pikkus>9.5</Pikkus>
+	</suund>
+	<suund id="France">
+		<nimetus>Road</nimetus>
+		<riik>Thailand</riik>
+		<Pikkus>1.5</Pikkus>
+	</suund>
+	<suund id="Czech Republic">
+		<nimetus>Hill</nimetus>
+		<riik>China</riik>
+		<Pikkus>1.5</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Road</nimetus>
+		<riik>Norway</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Syria">
+		<nimetus>Circle</nimetus>
+		<riik>China</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Morocco">
+		<nimetus>Alley</nimetus>
+		<riik>Russia</riik>
+		<Pikkus>4</Pikkus>
+	</suund>
+	<suund id="Belarus">
+		<nimetus>Avenue</nimetus>
+		<riik>China</riik>
+		<Pikkus>15.5</Pikkus>
+	</suund>
+	<suund id="Philippines">
+		<nimetus>Drive</nimetus>
+		<riik>Syria</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Portugal">
+		<nimetus>Pass</nimetus>
+		<riik>Russia</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Mali">
+		<nimetus>Way</nimetus>
+		<riik>Jordan</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="South Korea">
+		<nimetus>Crossing</nimetus>
+		<riik>Armenia</riik>
+		<Pikkus>1.5</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Lane</nimetus>
+		<riik>Togo</riik>
+		<Pikkus>9.5</Pikkus>
+	</suund>
+	<suund id="Indonesia">
+		<nimetus>Drive</nimetus>
+		<riik>Brazil</riik>
+		<Pikkus>5</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Alley</nimetus>
+		<riik>Colombia</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Uzbekistan">
+		<nimetus>Junction</nimetus>
+		<riik>Indonesia</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Poland">
+		<nimetus>Terrace</nimetus>
+		<riik>Cuba</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Russia">
+		<nimetus>Plaza</nimetus>
+		<riik>Philippines</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="China">
+		<nimetus>Avenue</nimetus>
+		<riik>Czech Republic</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="France">
+		<nimetus>Way</nimetus>
+		<riik>Vietnam</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Mexico">
+		<nimetus>Terrace</nimetus>
+		<riik>Russia</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Haiti">
+		<nimetus>Crossing</nimetus>
+		<riik>Egypt</riik>
+		<Pikkus>3</Pikkus>
+	</suund>
+	<suund id="Afghanistan">
+		<nimetus>Terrace</nimetus>
+		<riik>Philippines</riik>
+		<Pikkus>6</Pikkus>
+	</suund>
+</reis>
